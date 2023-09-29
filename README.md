@@ -60,3 +60,5 @@ Which worker gets which tasks?
 ## Screenshot
 
 See a running example with at least 3 concurrent process windows here:
+![Alt text](<Screenshot 2023-09-28 145820.png>)
+![Alt text](<Screenshot 2023-09-29 145154.png>)
